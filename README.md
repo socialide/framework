@@ -1,2 +1,1 @@
-# framework
-Framework for Socialide
+## Socialide Framework (Base Kernel)
